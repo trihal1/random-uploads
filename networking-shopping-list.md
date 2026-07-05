@@ -1,6 +1,4 @@
-# Networking – Component List
-
-Shopping list for a 10G/2.5G home network upgrade. All prices in SGD.
+# Networking – Component List[SGD]
 
 | # | Item | Specs / Quantity | Price (SGD) | Link |
 |---|------|------------------|-------------|------|
