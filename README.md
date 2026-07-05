@@ -13,5 +13,5 @@ Shopping list for a 10G/2.5G home network upgrade. All prices in SGD.
 
 ## Summary
 - **Total cost:** S$54.63  
-- **Power plug:** UK G‑type (ensure your socket supports it)  
-- **Ports available:** 2× 10G SFP+ + 4× 2.5G RJ45
+- **Power plug:** UK G‑type
+
